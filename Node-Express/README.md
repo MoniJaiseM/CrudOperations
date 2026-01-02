@@ -23,7 +23,5 @@ It is designed to help understand backend development concepts such as REST APIs
 - Express.js
 - Postman
 
----
 
-## Project Structure
 
